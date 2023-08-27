@@ -8,8 +8,8 @@
         <meta name="author" content="Irvan Rifa'i">
 
         <!-- Favicons -->
-        <link href="{{ asset('landing/images/ir.svg') }}" sizes="16x16" rel="icon">
-        <link href="{{ asset('landing/images/ir.svg') }}" sizes="16x16" rel="apple-touch-icon">
+        <link href="{{ asset('landing/images/ir.png') }}" sizes="16x16" rel="icon">
+        <link href="{{ asset('landing/images/ir.png') }}" sizes="16x16" rel="apple-touch-icon">
 
         <title>Irvan Rifa'i</title>
 

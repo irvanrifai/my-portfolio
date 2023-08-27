@@ -5,12 +5,12 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <a href="index.html" class="navbar-brand mx-auto mx-lg-0">First</a>
+        <a href="index.html" class="navbar-brand mx-auto mx-lg-0">Irvan Rifa'i</a>
 
         <div class="d-flex align-items-center d-lg-none">
             <i class="navbar-icon bi-telephone-plus me-3"></i>
             <a class="custom-btn btn" href="#section_5">
-                120-240-9600
+                082138109809
             </a>
         </div>
 
@@ -40,7 +40,7 @@
             <div class="d-lg-flex align-items-center d-none ms-auto">
                 <i class="navbar-icon bi-telephone-plus me-3"></i>
                 <a class="custom-btn btn" href="#section_5">
-                    120-240-9600
+                    082138109809
                 </a>
             </div>
         </div>

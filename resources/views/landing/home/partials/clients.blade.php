@@ -3,27 +3,23 @@
         <div class="row align-items-center">
 
             <div class="col-lg-12 col-12">
-                <h3 class="text-center mb-5">Companies I've had worked</h3>
+                <h3 class="text-center mb-5">Companies I've worked</h3>
             </div>
 
-            <div class="col-lg-2 col-4 ms-auto clients-item-height">
-                <img src="{{ asset('landing/images/clients/cachet.svg') }}" class="clients-image img-fluid" alt="">
+            <div class="col-lg-3 col-md-6 col-6 ms-auto clients-item-height">
+                <img src="{{ asset('landing/images/clients/betech-logo.png') }}" class="clients-image img-fluid" alt="">
             </div>
 
-            <div class="col-lg-2 col-4 clients-item-height">
-                <img src="{{ asset('landing/images/clients/guitar-center.svg') }}" class="clients-image img-fluid" alt="">
+            <div class="col-lg-3 col-md-6 col-6 clients-item-height">
+                <img src="{{ asset('landing/images/clients/solen-logo.jpg') }}" class="clients-image img-fluid" alt="">
             </div>
 
-            <div class="col-lg-2 col-4 clients-item-height">
-                <img src="{{ asset('landing/images/clients/tokico.svg') }}" class="clients-image img-fluid" alt="">
+            <div class="col-lg-3 col-md-6 col-6 clients-item-height pt-4">
+                <img src="{{ asset('landing/images/clients/refactory-logo.png') }}" class="clients-image img-fluid" alt="">
             </div>
 
-            <div class="col-lg-2 col-4 clients-item-height">
-                <img src="{{ asset('landing/images/clients/shopify.svg') }}" class="clients-image img-fluid" alt="">
-            </div>
-
-            <div class="col-lg-2 col-4 me-auto clients-item-height">
-                <img src="{{ asset('landing/images/clients/profil-rejser.svg') }}" class="clients-image img-fluid" alt="">
+            <div class="col-lg-3 col-md-6 col-6 clients-item-height">
+                <img src="{{ asset('landing/images/clients/suitcareer.jpg') }}" class="clients-image img-fluid" alt="">
             </div>
 
         </div>

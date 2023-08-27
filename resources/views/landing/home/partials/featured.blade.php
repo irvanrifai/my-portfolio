@@ -11,22 +11,22 @@
                     <div class="profile-body">
                         <p>
                             <span class="profile-small-title">Name</span>
-                            <span>Joshua Morgan</span>
+                            <span>Irvan Rifa'i</span>
                         </p>
 
                         <p>
-                            <span class="profile-small-title">Birthday</span>
-                            <span>Aug 12, 1986</span>
+                            <span class="profile-small-title">Born</span>
+                            <span>February 02, 2001</span>
                         </p>
 
                         <p>
                             <span class="profile-small-title">Phone</span>
-                             <span><a href="tel: 305-240-9671">120-240-9600</a></span>
+                             <span><a href="tel: 082138109809">082138109809</a></span>
                         </p>
 
                         <p>
                             <span class="profile-small-title">Email</span>
-                            <span><a href="mailto:hello@josh.design">hello@josh.design</a></span>
+                            <span><a href="mailto:ivan.rivai6921@gmail.com">ivan.rivai6921@gmail.com</a></span>
                         </p>
                     </div>
                 </div>
@@ -36,25 +36,25 @@
                 <div class="about-thumb">
                     <div class="row">
                         <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                            <strong class="featured-numbers">20+</strong>
+                            <strong class="featured-numbers">2+</strong>
 
                             <p class="featured-text">Years of Experiences</p>
                         </div>
 
                         <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                            <strong class="featured-numbers">245</strong>
+                            <strong class="featured-numbers">24</strong>
 
                             <p class="featured-text">Happy Customers</p>
                         </div>
 
                         <div class="col-lg-6 col-6 pt-4">
-                            <strong class="featured-numbers">640</strong>
+                            <strong class="featured-numbers">6</strong>
 
                             <p class="featured-text">Project Finished</p>
                         </div>
 
                         <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                            <strong class="featured-numbers">72+</strong>
+                            <strong class="featured-numbers">3</strong>
 
                             <p class="featured-text">Digital Awards</p>
                         </div>

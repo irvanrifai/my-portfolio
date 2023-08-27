@@ -49,22 +49,22 @@
                     <strong class="site-footer-title d-block mb-3">About</strong>
 
                     <p class="mb-2">
-                        Joshua is a professional web developer. Feel free to get in touch with me.
+                        Irvan is a professional fullstack developer. Feel free to get in touch with me.
               </p>
 
                     <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
 
                     <p>
-                        <a href="mailto:hello@josh.design">
-                            hello@josh.design
+                        <a href="mailto:ivan.rivai6921@gmail.com">
+                            ivan.rivai6921@gmail.com
                         </a>
                     </p>
 
                     <strong class="site-footer-title d-block mt-4 mb-3">Call</strong>
 
                     <p class="mb-0">
-                        <a href="tel: 120-240-9600">
-                            120-240-9600
+                        <a href="tel: 082138109809">
+                            082138109809
                         </a>
                     </p>
                 </div>
